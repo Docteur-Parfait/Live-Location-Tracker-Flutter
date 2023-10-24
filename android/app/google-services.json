@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303632596815",
+    "project_id": "live-tracking-7932f",
+    "storage_bucket": "live-tracking-7932f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303632596815:android:2199869fa0a1ab9cfb0f3a",
+        "android_client_info": {
+          "package_name": "com.aaddev.my_loc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303632596815-5d2ke5l5i2jvs3qbnpvotcetcqejt0jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlyM3mx8yVGtwBZIbKsOe2zZRKZnfrnUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303632596815-5d2ke5l5i2jvs3qbnpvotcetcqejt0jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
